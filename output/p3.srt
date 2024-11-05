@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:06,500
+Scene 1: Two friends at a coffee shop
+
+2
+00:00:07,000 --> 00:00:18,500
+Friend A: Did you know I've been researching time travel lately?
+
+3
+00:00:19,000 --> 00:00:22,600
+Friend B: Oh, really?
+
+4
+00:00:23,100 --> 00:00:28,700
+When are you planning on going?
+
+5
+00:00:29,200 --> 00:00:41,100
+Friend A: Well, I haven't decided yet, but I promise I won't be late.
+
+6
+00:00:41,600 --> 00:00:57,200
+Friend B: So, you're going to master the art of being on time by traveling through time?
+
+7
+00:00:57,700 --> 00:01:11,500
+Friend A: Exactly, I'm going to put those 'time management' seminars to shame.
+

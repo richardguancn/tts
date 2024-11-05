@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:08,100
+“生活就像一盒chocolates，你never know你会得到什么。
+
+2
+00:00:08,600 --> 00:00:08,700
+”
+
+3
+00:00:09,200 --> 00:00:21,900
+"Life is like a box of chocolates, you never know what you're gonna get.
+
+4
+00:00:22,400 --> 00:00:22,500
+"
+
