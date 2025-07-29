@@ -191,7 +191,7 @@ async def run_tts(text: str, output: str, voice: str ='zh-CN-XiaoxiaoMultilingua
             os.makedirs(output_dir)
             
         baseDir = './'
-        password = 'BdsheOnqGzEfUmT7dZv28Cdv8HRRGLaSI96F4JnfdQev7IvvmGNBJQQJ99AKAC3pKaRXJ3w3AAAYACOGcova'
+        password = 'your password'
         speech_config = speechsdk.SpeechConfig(subscription=password, region="eastasia")
         file_config = speechsdk.audio.AudioOutputConfig(filename=output)
 
